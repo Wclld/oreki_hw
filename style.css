@@ -110,3 +110,8 @@ body {
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.link-list>a:hover{
+  color: #8A38F5;
+
+}
